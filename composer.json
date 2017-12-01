@@ -1,0 +1,17 @@
+{
+   "name": "MicroRest",
+   "description" : "micro package for php that facilitates creating a RESTful API service",
+   "homepage":"https://github.com/katmore/micro-rest",
+    "autoload": {
+        "psr-4": {
+            "MicroRest\\": "src/MicroRest/"
+        }
+    },
+	"license": [
+       "MIT",
+       "GPL-3.0+"
+    ],
+    "require": {
+        "php" : ">=7.1.1"
+     }    
+}
