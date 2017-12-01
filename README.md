@@ -3,7 +3,7 @@ micro package for php that facilitates creating a RESTful API service
 
 ## Legal
 ### Copyright
-MicroEncode - https://github.com/katmore/micro-rest
+MicroRest - https://github.com/katmore/micro-rest
 
 Copyright (c) 2012-2017 Doug Bird. All Rights Reserved.
 
